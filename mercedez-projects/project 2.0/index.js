@@ -32,7 +32,7 @@ window.onload = ()=>{
 }
 
 
-var swiper = new Swiper(".books-slider",  {
+var swiper = new Swiper(".book-slider",  {
     loop:true,
    centeredSlides:true,
    autoplay:{
