@@ -32,7 +32,7 @@ window.onload = ()=>{
 }
 
 
-var swiper2 = new Swiper(".featured-slider", {
+var swiper2 = new Swiper(".books-slider", {
   spaceBetween: 10,
   loop: true,
   centeredSlides: true,
