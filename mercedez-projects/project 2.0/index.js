@@ -34,7 +34,7 @@ var swiper = new Swiper(".books-slider", {
    loop:true,
    centeredSlides:true,
    autoplay:{
-    delay: 1000,
+    delay:20000,
     disableOnInteraction: false,
    },
     breakpoints: {
@@ -54,7 +54,7 @@ var swiper = new Swiper(".books-slider", {
     loop:true,
     centeredSlides:true,
     autoplay:{
-     delay: 100,
+     delay: 20000,
      disableOnInteraction: false,
     },
     navigation: {
